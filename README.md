@@ -1,2 +1,3 @@
-# TenableScript
-A few of useful scripts I used
+# RedScripts
+A few of useful scripts that I used
+
